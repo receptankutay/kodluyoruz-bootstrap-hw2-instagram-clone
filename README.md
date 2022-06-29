@@ -1,4 +1,4 @@
 # instagrambootstrapclone
 
-![Instagram Clone](https://ibb.co/Q6pG3dL.png)
+![Instagram Clone](https://i.ibb.co/rZFJRsY/instagram.png)
 Simple HTML Instagram clone made with Bootstrap.
